@@ -1,0 +1,185 @@
+html, body {
+  height: 100%;
+  position: relative;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #40514E;
+  min-height: 100%;
+  padding-bottom: 100px;
+  position: relative;
+  background-image: url("../images/background.png");
+  background-repeat:repeat-x repeat-y;
+
+}
+
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Anton', sans-serif;
+  color: #FFF;
+  font-size: 90px;
+  width: 50%;
+  line-height: 1;
+}
+.contact-me {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 20%;
+  margin-left: 38.5%;
+  margin-top: 20px;
+}
+
+.name {
+  width: 80%;
+  border-radius: 5px ;
+}
+
+.email {
+  width: 80%;
+  border-radius: 5px black solid;
+}
+
+.message {
+  width: 80%;
+  border-radius: 5px black solid;
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #11999E;
+}
+
+.icon:hover {
+  background-color: black;
+}
+.contact:hover {
+  background-color: black;
+}
+
+p {
+  line-height: 2;
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #76b39d;
+border-width: 6px;
+width: 3%;
+margin: 100px auto;
+}
+.top-container{
+
+}
+
+.intro {
+  line-height: 2;
+}
+.web {
+  text-decoration: underline;
+}
+.middle-container {
+  margin: 100px 0;
+}
+
+.introduction {
+  width: 30%;
+  margin: auto;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container{
+ background-color: #020407;
+ bottom: 0;
+ width: 100%;
+ position: absolute;
+}
+
+
+.row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer2 {
+  height: 100px;
+  width: 100px;
+  float: right;
+  margin-left: 0;
+}
+
+.computer{
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.btn {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  border-radius: 10px;
+  background-color: #1ee3cf;
+  margin: auto auto 30px;
+}
+
+.btn:hover {
+  background-color: #0d3f67;
+}
+
+.icon {
+  height:40px;
+  width:40px;
+  margin: 10px 10px;
+}
+
+.contact {
+  height:40px;
+  width:40px;
+  margin-left:15px;
+  margin: 10px 10px;
+}
+
+.letterv {
+  margin: 20px auto 100px auto;
+}
+
+.navigation_bar {
+  width: 60px;
+  text-align: center;
+  top:0;
+  left: 0;
+  background:rgb(204, 204, 204, 0.6);
+  position: fixed;
+  height: 100%;
+}
