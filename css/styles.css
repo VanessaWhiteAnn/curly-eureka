@@ -70,10 +70,19 @@ border-width: 6px;
 width: 3%;
 margin: 100px auto;
 }
+
 .top-container{
 
 }
 
+.skills {
+  width: 60%;
+  margin: 20px auto auto 310px;
+}
+
+th {
+  
+}
 .intro {
   line-height: 2;
 }
@@ -117,18 +126,23 @@ margin: 100px auto;
   line-height: 2;
 }
 
-.computer2 {
-  height: 100px;
-  width: 100px;
-  float: right;
-  margin-left: 0;
-}
 
 .computer{
   height: 100px;
   width: 100px;
-  float: left;
-  margin-right: 30px;
+  float: center;
+}
+
+.education {
+  height: 100px;
+  width: 100px;
+  float: center;
+}
+
+.languages {
+  height: 100px;
+  width: 100px;
+  float: center;
 }
 
 
