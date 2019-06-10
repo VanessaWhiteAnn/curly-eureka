@@ -18,36 +18,27 @@ body {
 
 
 h1 {
-  margin: 50px auto 0 auto;
+  margin: 70px auto 0 auto;
   font-family: 'Anton', sans-serif;
   color: #FFF;
-  font-size: 90px;
   width: 50%;
-  line-height: 1;
-}
-.contact-me {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-  width: 20%;
-  margin-left: 38.5%;
-  margin-top: 20px;
+  font-size: 50px;
 }
 
-.name {
-  width: 80%;
-  border-radius: 5px ;
+.underline {
+  text-decoration: underline;
 }
 
-.email {
-  width: 80%;
-  border-radius: 5px black solid;
+.contact-form {
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 75px;
+  background-color: rgb(161, 170, 183, 0.3);
+  padding: 30px 20px;
+  border-radius: 1%;
 }
 
-.message {
-  width: 80%;
-  border-radius: 5px black solid;
-}
+
 h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
